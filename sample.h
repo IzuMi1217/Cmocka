@@ -1,0 +1,2 @@
+// Some funciton
+int func();
